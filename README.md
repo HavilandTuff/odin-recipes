@@ -1,0 +1,1 @@
+First simple html project in Odin course.
